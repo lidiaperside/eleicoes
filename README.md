@@ -8,3 +8,6 @@
 6. Agregação dos votos com uma operação matemática de soma
 7. Ordenação dos dados agregados de forma decrescente, ou seja, da maior quantidade de votos para a menor
 8. Adição de uma coluna com os valores relativos percentuais da agregação dos dados.
+9. Utilizar o Seaborn, um dos pacotes Python mais utilizado para visualização de dados.
+10. Observação da quantidade de votos absolutos.
+11. Observação da quantidade de votos relativos.
